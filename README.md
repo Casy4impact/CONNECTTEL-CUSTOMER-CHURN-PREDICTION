@@ -1,6 +1,7 @@
 # CONNECTTEL-CUSTOMER-CHURN-PREDICTION
 Customer Churn Prediction
 
+#This Project is still ongoing
 
 ## Total Number of Citizens by Churn Status
 The output is showing the count of citizens categorized into "Junior Citizen" and "Senior Citizen" and further breaks down the churn and retention numbers within each category.
